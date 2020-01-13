@@ -1,0 +1,10 @@
+{
+    "english":"sinus",
+    "spanish":"seno",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

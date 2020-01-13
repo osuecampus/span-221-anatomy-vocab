@@ -1,0 +1,10 @@
+{
+    "english":"large intestine",
+    "spanish":"intestino grueso",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "male",
+    "parent-group":[
+        "male reproductive system"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "english":"elbow",
+    "spanish":"codo",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

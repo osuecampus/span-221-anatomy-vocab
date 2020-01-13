@@ -1,0 +1,10 @@
+{
+    "english":"hair",
+    "spanish":["pelo","cabello"],
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body","head"
+    ]
+}

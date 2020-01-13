@@ -1,0 +1,10 @@
+{
+    "english":"prostate",
+    "spanish":"próstata",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "male",
+    "parent-group":[
+        "male reproductive system"
+    ]
+}

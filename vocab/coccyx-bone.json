@@ -1,0 +1,11 @@
+{
+    "english":"coccyx bone",
+    "spanish":"huesos del cóccix",
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "both",
+    "parent-group":[
+        "female reproductive system",
+        "male reproductive system"
+    ]
+}

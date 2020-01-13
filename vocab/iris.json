@@ -1,0 +1,10 @@
+{
+    "english":"iris",
+    "spanish":"iris",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

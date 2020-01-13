@@ -1,0 +1,10 @@
+{
+    "english":"genitalia",
+    "spanish":"genitales",
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

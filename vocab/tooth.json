@@ -1,0 +1,10 @@
+{
+    "english":"tooth",
+    "spanish":"diente",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "english":"uterus",
+    "spanish":["matriz","útero"],
+    "gender-grammar":["feminine", "masculine"],
+    "gender-prefix": ["la", "el"],
+    "gender-body": "female",
+    "parent-group":[
+        "female reproductive system"
+    ]
+}

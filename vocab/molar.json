@@ -1,0 +1,10 @@
+{
+    "english":"molar",
+    "spanish":"muela",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

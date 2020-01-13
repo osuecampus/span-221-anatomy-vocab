@@ -1,0 +1,10 @@
+{
+    "english":"chest",
+    "spanish":"pecho",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

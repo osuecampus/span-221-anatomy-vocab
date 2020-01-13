@@ -1,0 +1,10 @@
+{
+    "english":"nostrils",
+    "spanish":"narices",
+    "gender-grammar":"feminine",
+    "gender-prefix": "las",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

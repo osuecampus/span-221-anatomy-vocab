@@ -1,0 +1,11 @@
+{
+    "english":"rectum",
+    "spanish":"recto",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "female reproductive system",
+        "male reproductive system"
+    ]
+}

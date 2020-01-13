@@ -1,0 +1,10 @@
+{
+    "english":"joint",
+    "spanish":"articulación",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

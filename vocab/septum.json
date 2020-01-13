@@ -1,0 +1,10 @@
+{
+    "english":"septum",
+    "spanish":["tabique","septo"],
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

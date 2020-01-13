@@ -1,0 +1,10 @@
+{
+    "english":"fingernail",
+    "spanish":"uña",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

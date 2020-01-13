@@ -1,0 +1,10 @@
+{
+    "english":"nasal cavity",
+    "spanish":"fosa nasal",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

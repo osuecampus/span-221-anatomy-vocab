@@ -1,0 +1,10 @@
+{
+    "english":"arm",
+    "spanish":"brazo",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

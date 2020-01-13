@@ -1,0 +1,10 @@
+{
+    "english":"inner ear",
+    "spanish":"oído",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

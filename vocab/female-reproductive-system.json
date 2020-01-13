@@ -1,0 +1,10 @@
+{
+    "english":"female reproductive system",
+    "spanish":"sistema reproductor femenino",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "female reproductive system"
+    ]
+}

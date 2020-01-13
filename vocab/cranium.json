@@ -1,0 +1,10 @@
+{
+    "english":"cranium",
+    "spanish":"cráneo",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

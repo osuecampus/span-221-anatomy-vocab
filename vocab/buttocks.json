@@ -1,0 +1,10 @@
+{
+    "english":"buttocks",
+    "spanish":"glúteo",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "english":"breasts",
+    "spanish":["senos","pechos"],
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "female",
+    "parent-group":[
+        "body"
+    ]
+}

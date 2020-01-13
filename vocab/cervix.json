@@ -1,0 +1,10 @@
+{
+    "english":"cervix",
+    "spanish":["cuello de la matriz","cérvix"],
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "female",
+    "parent-group":[
+        "female reproductive system"
+    ]
+}

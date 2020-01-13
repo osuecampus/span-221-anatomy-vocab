@@ -1,0 +1,10 @@
+{
+    "english":"toe",
+    "spanish":"dedo del pie",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

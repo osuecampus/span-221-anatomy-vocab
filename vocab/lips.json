@@ -1,0 +1,10 @@
+{
+    "english":"lips",
+    "spanish":"labios",
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "both",
+    "parent-group":[
+        "body","head"
+    ]
+}

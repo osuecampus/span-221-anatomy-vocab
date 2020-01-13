@@ -1,0 +1,10 @@
+{
+    "english":"neck",
+    "spanish":"cuello",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

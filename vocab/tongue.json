@@ -1,0 +1,10 @@
+{
+    "english":"tongue",
+    "spanish":"lengua",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "head"
+    ]
+}

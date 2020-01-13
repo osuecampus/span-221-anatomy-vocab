@@ -1,0 +1,10 @@
+{
+    "english":"bone",
+    "spanish":"hueso",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

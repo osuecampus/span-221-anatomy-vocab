@@ -1,0 +1,10 @@
+{
+    "english":"male reproductive system",
+    "spanish":"El sistema reproductor masculino",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "male",
+    "parent-group":[
+        "male reproductive system"
+    ]
+}

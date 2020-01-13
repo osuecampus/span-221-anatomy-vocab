@@ -1,0 +1,10 @@
+{
+    "english":"outer ear",
+    "spanish":"oreja",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "english":"urethra",
+    "spanish":"uretra",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "female reproductive system",
+        "male reproductive system"
+    ]
+}

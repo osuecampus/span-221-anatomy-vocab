@@ -1,0 +1,10 @@
+{
+    "english":"tissues",
+    "spanish":"tejidos",
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

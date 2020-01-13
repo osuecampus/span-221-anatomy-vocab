@@ -1,0 +1,12 @@
+{
+    "english":"anus",
+    "spanish":"ano",
+    "gender-grammar":"masculine",
+    "gender-prefix": "el",
+    "gender-body": "both",
+    "parent-group":[
+        "body",
+        "female-reproductive-system",
+        "male-reproductive-system"
+    ]
+}

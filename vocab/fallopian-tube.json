@@ -1,0 +1,10 @@
+{
+    "english":"fallopian tube",
+    "spanish":"trompa de Falopio",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "female",
+    "parent-group":[
+        "female reproductive system"
+    ]
+}

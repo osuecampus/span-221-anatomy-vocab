@@ -1,0 +1,10 @@
+{
+    "english":"toenail",
+    "spanish":"uña del dedo de pie",
+    "gender-grammar":"feminine",
+    "gender-prefix": "la",
+    "gender-body": "both",
+    "parent-group":[
+        "body"
+    ]
+}

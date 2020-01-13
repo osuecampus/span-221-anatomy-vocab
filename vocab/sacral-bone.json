@@ -1,0 +1,11 @@
+{
+    "english":"sacral bone",
+    "spanish":"huesos del sacro",
+    "gender-grammar":"masculine",
+    "gender-prefix": "los",
+    "gender-body": "both",
+    "parent-group":[
+        "female reproductive system",
+        "male reproductive system"
+    ]
+}
